@@ -1,0 +1,15 @@
+{
+  "name": "selen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@axe-core/webdriverjs": "^4.8.5",
+    "selenium-webdriver": "^4.17.0"
+  }
+}
